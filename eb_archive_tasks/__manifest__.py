@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
+#AUTHOR {"RISTE KABRANOV"}
 {
-    'name': "eb_archive_tasks",
+    'name': "Archive Tasks",
 
     'summary': """
         Archive tasks using list view in odoo""",
@@ -9,7 +10,7 @@
         Archive tasks using list view in odoo
     """,
 
-    'author': "Euroblaze, Cona Cons",
+    'author': "odoo@euroblaze.de",
     'website': "http://www.simplify-erp.com",
 
     # Categories can be used to filter modules in modules listing
