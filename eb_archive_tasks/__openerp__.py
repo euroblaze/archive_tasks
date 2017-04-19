@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "eb_archive_tasks",
+    'name': "Archive Tasks",
 
     'summary': """
         Archive tasks using list view in odoo""",
