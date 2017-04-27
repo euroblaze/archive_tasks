@@ -10,7 +10,7 @@
         Archive tasks using list view in odoo
     """,
 
-    'author': "odoo@euroblaze.de",
+    'author': "odoo@simplify-erp.com",
     'website': "http://www.simplify-erp.com",
     'images': ['static/description/banner.jpg'],
 
